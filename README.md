@@ -45,6 +45,6 @@ Please see the test.ipynb
 ### SHAP-based Methods for Interpretable Object Detection in Satellite Imagery
 _Hiroki Kawauchi, Takashi Fuse_ <br>
 
-[[Paper]](https://github.com/hiroki-kawauchi/SHAPObjectDetection.git) [[Original Implementation]](https://github.com/hiroki-kawauchi/SHAPObjectDetection.git)
+[[Paper]](https://www.mdpi.com/2072-4292/14/9/1970) [[Original Implementation]](https://github.com/hiroki-kawauchi/SHAPObjectDetection.git)
 
 
