@@ -1,5 +1,5 @@
 # SHAP-Based Interpretable Object Detection Method for Satellite Imagery
-This is the author implementation of [SHAP-Based Interpretable Object Detection Method for Satellite Imagery](https://www.mdpi.com/2072-4292/14/9/1970). The implementation of the object detection model (YOLOv3) is based on [Pytorch_YOLOv3](https://github.com/DeNA/PyTorch_YOLOv3). The framework of the proposed method does not depend on any particular object detection model.
+This is the author implementation of [SHAP-Based Interpretable Object Detection Method for Satellite Imagery](https://www.mdpi.com/2072-4292/14/9/1970). The implementation of the object detection model (YOLOv3) is based on [Pytorch_YOLOv3](https://github.com/DeNA/PyTorch_YOLOv3). The framework of the proposed method can be applied to any differentiable object detection model.
 
 <p align="left"><img src="data/whole_figure.png" height="380"\>
 
